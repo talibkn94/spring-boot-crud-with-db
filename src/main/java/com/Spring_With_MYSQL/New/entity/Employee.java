@@ -1,7 +1,7 @@
 package com.Spring_With_MYSQL.New.entity;
 
 import javax.persistence.*;
-
+/*@Auther Talib Mohammad*/
 @Entity
 @Table(name = "spring_boot")
 public class Employee {
